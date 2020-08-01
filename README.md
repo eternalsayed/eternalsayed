@@ -1,4 +1,7 @@
 ### Hi there 👋
+### About Me
+My name is Sayed and I'm a Frontend dev with Fullstack experience with MEAN stack and PHP, and I love to work on hybrid mobile apps. Often, I release code that I use in my own apps/BE which may be helpful to others in form of utilities or helpers. Sometimes, I also create plugins or extensions. Follow me if you think you can help me improve me/my code or if you find my code helpful and want me to take something further!
+
 
 <!--
 **eternalsayed/eternalsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
